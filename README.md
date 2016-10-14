@@ -1,6 +1,5 @@
-# campfinder
-
-> A Vue.js application that shows available campsites throughout the United States.
+# CampFinder
+A Vue.js app to view available campsites around the United States
 
 ## Build Setup
 
